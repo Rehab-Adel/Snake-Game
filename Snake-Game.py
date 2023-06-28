@@ -8,7 +8,7 @@ score = 0
 high_score = 0
 
 w = turtle.Screen()
-w.title("Snake Game @Rehab Adel")
+w.title("Snake Game by @Rehab Adel")
 w.bgcolor("green")
 w.setup(width=600, height=600)
 w.tracer(0)  # Turns off the screen updates
